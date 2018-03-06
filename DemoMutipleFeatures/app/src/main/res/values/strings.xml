@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">HousingSecurity</string>
+
+
+    <!--=============================================================================
+      SnackBar Messages
+      =============================================================================-->
+    <string name="empty_first_name">Please Enter First Name</string>
+    <string name="empty_last_name">Please Enter Last Name</string>
+    <string name="empty_email">Please Enter Email Id</string>
+    <string name="empty_phone">Please Enter Phone Number</string>
+    <string name="valid_phone">Please Enter Valid Phone Number</string>
+    <string name="empty_password">Please Enter Password</string>
+    <string name="empty_flat">Please Enter Flat Number</string>
+    <string name="empty_floor_Number">Please Enter Floor Number</string>
+    <string name="empty_block">Please Enter Block Number</string>
+    <string name="empty_society_name">Please Enter Society Name</string>
+    <string name="empty_society_address">Please Enter Society Address</string>
+
+    <!--=============================================================================
+   Register Activity
+   =============================================================================-->
+    <string name="create_profile">Create Profile</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="flat_no">Flat No.</string>
+    <string name="submit">Submit</string>
+    <string name="already_registered_signin">Already Registered? Sign In</string>
+    <string name="floor_no">Floor No.</string>
+    <string name="block">Block</string>
+    <string name="society_name">Society Name</string>
+    <string name="society_address">Society Address</string>
+
+    <!--=============================================================================
+   Login Activity
+   =============================================================================-->
+    <string name="housing_security">Housing Security</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <!--=============================================================================
+    Forgot Activity
+    =============================================================================-->
+    <string name="success_send_email">Please check your email or number to check new password.</string>
+
+
+    <!--=============================================================================
+    Dashboard Activity
+    =============================================================================-->
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="categories">Categories</string>
+    <string name="logout">Logout</string>
+    <string name="scan">Scan</string>
+    <string name="share_link">Share Link</string>
+
+    <!--=============================================================================
+    Latest Guest Information Activity
+    =============================================================================-->
+    <string name="purpose">Purpose</string>
+    <string name="total_guests">Total Guests</string>
+    <string name="approved">Approved</string>
+    <string name="full_name">Full Name</string>
+    <string name="visitor">Visitors: </string>
+
+
+    <!--=============================================================================
+       Donot Know Activity
+       =============================================================================-->
+
+    <string name="to">To</string>
+    <string name="name">Name</string>
+    <string name="send_invitation">Send Invitation</string>
+    <string name="accept">Accept</string>
+    <string name="your_address">Your Address</string>
+    <string name="cancel">Cancel</string>
+    <string name="profile">Profile</string>
+    <string name="send_request">Send Request</string>
+    <string name="accept_request">Accept Request</string>
+    <string name="scanner">Scanner</string>
+    <string name="your_guest_list">Your Guest List</string>
+    <string name="setting">Setting</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="remarks">Remarks</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="my_profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_time">Date</string>
+    <string name="decline">Decline</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+
+</resources>

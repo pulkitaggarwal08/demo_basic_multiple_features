@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_30dp"
+    android:gravity="center"
+    tools:context="com.innovative.housingsecurity.ui.fragments.DashboardFragment">
+
+    <Button
+        android:id="@+id/btn_share_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_round_blue_background"
+        android:text="@string/share_link"
+        android:textAllCaps="false"
+        android:elevation="@dimen/elevation_4dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_16sp" />
+
+    <Button
+        android:id="@+id/btn_scanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_share_link"
+        android:layout_marginTop="@dimen/margin_30dp"
+        android:background="@drawable/btn_round_blue_background"
+        android:text="@string/scan"
+        android:elevation="@dimen/elevation_4dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size_16sp" />
+
+</RelativeLayout>
